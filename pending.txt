@@ -1,0 +1,31 @@
+10 days matrix.computers@ymail.com
+
+Admin Panel
+1. (vikas)Hotel Master
+	Add Gallery/View Gallery design
+2. (vikas/kb)While Editing if we don't choose image then it will save it as blank in all edits;
+3. (Shreshtha) remove Room allotment
+4. (Shreshtha)Add Image option in Room Master
+5. (Shreshtha)Remove Booked from room master
+6.(Shreshtha)roomcatimages rename to roomimages
+
+Customer End
+
+1.	(kb)Filter State maintain
+2.	(kb)Filter according to Date
+3.	(Shreshtha)Details.jsp now read room images from room table not from room allocation
+4.	(anjali)Booking Page
+
+	RoomId(getParameter),Room number,price,userid(session) (Input)
+check in date 
+No. of Days
+Adults(spinner), 
+Kids(spinner)  
+	Book Button click then save the above record in booking table but treat noofrooms as roomid if possible rename the field 
+Payment on Arrival or DEBIT CARD,CREDIT (help from shopindia)
+5.	(kb)Dates check , room is free or not	
+6.	(shailja)JS for input validation
+
+
+call
+10:30 to 11:30
